@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 
-// Fills 'str' with random letters and ends it with '\0'
+
 void rand_string(char *str, int length) {
     const char charset[] = "abcdefghijklmnopqrstuvwxyz";
     for (int i = 0; i < length; i++) {
-        int key = rand() % 26;   // pick random index 0–25
+        int key = rand() % 26;   
         str[i] = charset[key];
     }
-    str[length] = '\0';  // null-terminate
+    str[length] = '\0';  
 }
 void rand_string(char *str, int length);
 
