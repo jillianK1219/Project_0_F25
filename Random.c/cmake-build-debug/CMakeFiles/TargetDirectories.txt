@@ -1,3 +1,0 @@
-/Users/jilliankivelier/Desktop/Project_0_F25/Random.c/cmake-build-debug/CMakeFiles/Random_c.dir
-/Users/jilliankivelier/Desktop/Project_0_F25/Random.c/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jilliankivelier/Desktop/Project_0_F25/Random.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

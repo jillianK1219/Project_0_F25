@@ -8,6 +8,7 @@ void rand_string(char *str, int length) {
     for (int i = 0; i < length; i++) {
         int key = rand() % 26;   
         str[i] = charset[key];
+        
     }
     str[length] = '\0';  
 }
